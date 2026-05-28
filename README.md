@@ -10,7 +10,7 @@
 
 ### Project 2: Dog Breed
 **Summary**: This program recommends a random dog to the user and find data of a specfic dog
-# **Key Features**:
+### **Key Features**:
 - Recommends a dog based on their size
 - Finds the temperment of the dog the user inputs
 - Looks for dogs that with a similar input
