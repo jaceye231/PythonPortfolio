@@ -2,7 +2,7 @@
 
 ### Project 1: Board Games
 **Summary**: This program allows recommends a random game to the user based on user input
-**Key Features**:
+# **Key Features**:
 - Recommends a game based on the type of mechanics
 - Recommends a game based on the number of players
 - Recommends a game based on the type of genre
@@ -10,7 +10,7 @@
 
 ### Project 2: Dog Breed
 **Summary**: This program recommends a random dog to the user and find data of a specfic dog
-**Key Features**:
+# **Key Features**:
 - Recommends a dog based on their size
 - Finds the temperment of the dog the user inputs
 - Looks for dogs that with a similar input
